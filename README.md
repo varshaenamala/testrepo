@@ -1,6 +1,6 @@
-# testrepo
+# testrepog
 
-##Editing the file
+## Editing the file
 
 Its a markdone file in this repository
 
